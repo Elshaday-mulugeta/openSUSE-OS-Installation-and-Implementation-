@@ -1,1 +1,1 @@
-# openSUSE-OS-Installation-and-Implementation-
+openSUSE-OS
